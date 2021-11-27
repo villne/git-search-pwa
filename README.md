@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Github repository search app, uses Github API: (https://docs.github.com/en/rest/reference/search).
+Github repository search app, uses [Github API](https://docs.github.com/en/rest/reference/search).
+
+App is deployed on [Vercel](https://git-search-pwa-l7ge2ng84-villne.vercel.app).
 
 ## Getting Started
 
