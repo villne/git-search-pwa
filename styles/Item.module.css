@@ -1,0 +1,15 @@
+.container {
+  text-align: left;
+  padding: 1rem;
+  border: 0.1rem;
+  border-style: dotted;
+}
+
+.container a {
+  color: red;
+}
+
+.container span {
+  color: gray;
+}
+
